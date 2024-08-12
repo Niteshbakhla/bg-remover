@@ -98,7 +98,7 @@ const Removebg = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-white px-4 pb-4 pt-4">
      
-      <div className="fixed right-4 top-4 w-[50px] h-[50px] rounded-full bg-indigo-500 flex justify-center items-center text-white text-3xl">
+      <div className="fixed right-4 top-4 cursor-pointer w-[50px] h-[50px] rounded-full bg-indigo-500 flex justify-center items-center text-white text-3xl">
         <p>N</p>
       </div>
       <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8">
